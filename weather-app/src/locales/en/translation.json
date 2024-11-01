@@ -1,0 +1,20 @@
+{
+    "weather_forecast": "Weather Forecast in {{city}}",
+    "learn_more": "Learn how the weather will change in your city!",
+    "weatherOn": "Weather on",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "pressure": "Pressure",
+    "wind": "Wind",
+    "precipitation": "Precipitation",
+    "minTemp": "Min",
+    "maxTemp": "Max",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "enter_the_city": "Enter the city",
+    "days": "Days",
+    "langugage": "en-US",
+    "contacts": "Contacts",
+    "all_rights_reserved": "All rights reserved"
+}
+ 

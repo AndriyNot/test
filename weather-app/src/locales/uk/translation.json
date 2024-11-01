@@ -1,0 +1,19 @@
+{
+    "weather_forecast": "Прогноз погоди в {{city}}",
+    "learn_more": "Дізнайтесь, як зміниться погода у вашому місті!",
+    "weatherOn": "Погода на",
+    "temperature": "Температура",
+    "humidity": "Вологість",
+    "pressure": "Тиск",
+    "wind": "Вітер",
+    "precipitation": "Опади",
+    "minTemp": "Мін",
+    "maxTemp": "Макс",
+    "sunrise": "Схід сонця",
+    "sunset": "Захід сонця",
+    "enter_the_city": "Введіть місто",
+    "days": "Днів",
+    "langugage": "uk-UA",
+    "contacts": "Контакти",
+    "all_rights_reserved": "Всі права захищені"
+} 
